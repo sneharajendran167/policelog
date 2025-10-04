@@ -85,6 +85,16 @@
   5)Centralized database for multi-location check posts.
 
  **STREAMLIT OUTPUT:**
+
+
+
+
+
+
+
+ @ Contact: 📧 Email: sneharaje167@gmail.com
+
+🌐 LinkedIn: https://www.linkedin.com/in/sneha-rajendiran-2427651b7
  
  
 
