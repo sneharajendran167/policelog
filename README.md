@@ -3,7 +3,7 @@
 **INTRODUCTION:**
 
   The Police Log Project is a Python–SQL based digital ledger designed to streamline and modernize police check-post operations. Instead of relying on scattered paper logs or manual reports, this project provides a centralized database and an interactive dashboard to record, track, and analyze vehicle stops in real-time.
-
+ 
 **FEATURES:**
 
   1)Data Cleaning - Handling NAN values in Python
